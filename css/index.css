@@ -1,0 +1,28 @@
+body
+{
+    background-color: #DCEAFB;
+}
+
+.cuadro-de-texto
+{
+    font-size: 22px;
+    padding: 14px;
+    border-radius: 17px;}
+
+.boton
+{
+    padding: 21px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+.contenedor
+{
+    background-color: beige;
+    font-size: 27px;
+    color: brown;
+    padding: 51px;
+    border-radius: 61px;
+    font-family: cursive;
+    margin-top: 23px;
+}
